@@ -201,7 +201,7 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
-  background: url("/tulips.png");
+  background: url("../tulips.png");
   background-repeat: no-repeat;
   background-position: top left;
   background-size: contain;
